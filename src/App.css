@@ -1,0 +1,16 @@
+.main{
+  display:grid;
+  place-items: center;
+  height: 100vh;
+}
+.container{
+  padding: 20px;
+  border:1px solid black;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+}
